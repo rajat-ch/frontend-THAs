@@ -1,0 +1,17 @@
+body{
+    border: 2px solid black;
+    padding-left: 10px;
+}
+
+#section{
+    width: 720px;
+}
+#aside
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 305px;
+    margin-top: -480px;
+    width: 587px;
+    float: right;
+} 
